@@ -89,3 +89,10 @@ body {
     align-items: start;
     justify-content: center;
 }
+
+.black-key-name {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    color: #ffff;
+}
