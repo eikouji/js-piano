@@ -16,6 +16,9 @@ body {
     #ffec8c 50%, 
     #1b85ff 90%);
     border-radius: 10px;
+
+    font-family: 'Lora', serif;
+    font-size: 16px;
 }
 
 .keys {
@@ -51,34 +54,43 @@ body {
 }
 
 /* black key positions */
+/* F#2 */
 .black-key:nth-child(1) {
     left: 48px;
 }
-
+/* G#2 */
 .black-key:nth-child(2) {
     left: 117px;
 }
+/* A#2 */
 .black-key:nth-child(3) {
     left: 183px;
 }
+/* C#3 */
 .black-key:nth-child(4) {
     left: 320px;
 }
+/* D#3 */
 .black-key:nth-child(5) {
     left: 389px;
 }
+/* F#3 */
 .black-key:nth-child(6) {
     left: 525px;
 }
+/* G#3 */
 .black-key:nth-child(7) {
     left: 594px;
 }
+/* A#3 */
 .black-key:nth-child(8) {
-    left: 663px;
+    left: 660px;
 }
+/* C#4 */
 .black-key:nth-child(9) {
     left: 798px;
 }
+/* D#4 */
 .black-key:nth-child(10) {
     left: 865px;
 }
