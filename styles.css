@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-content: center;
+}
+
+#piano {
+    height: 290px;
+    padding: 90px 30px 10px 30px;
+    background: #ff2b2b;
+    background: radial-gradient(circle, 
+    #49fff4 10%, 
+    #ffec8c 50%, 
+    #1b85ff 90%);
+    border-radius: 10px;
+}
+
+.keys {
+    position: relative;
+
+}
+
+.white-keys {
+    display: flex;
+}
+
+.white-key {
+    width: 68px;
+    height: 280px;
+    background-color: #FFF;
+    border-radius: 0 0 8px 8px;
+    border: solid #000 2px;
+    box-sizing: border-box;
+}
