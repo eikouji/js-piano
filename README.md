@@ -4,10 +4,10 @@
 A colorful playable click-me piano.
 
 Technologies used:
-HTML5
-CSS3
-JavaScript
-Piano Note Sounds from archive.org
+* HTML5
+* CSS3
+* JavaScript
+* Piano Note Sounds from archive.org
 
 # Dev's notes #
 This is based on a youtube tutorial. While this tutorial was a great launching point, I did the best I could to make sure that
