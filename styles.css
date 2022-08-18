@@ -7,6 +7,8 @@ body {
     align-items: center;
 }
 
+
+
 #piano {
     height: 290px;
     padding: 90px 30px 5px 30px;
@@ -64,7 +66,7 @@ body {
 }
 /* A#2 */
 .black-key:nth-child(3) {
-    left: 183px;
+    left: 254px;
 }
 /* C#3 */
 .black-key:nth-child(4) {
@@ -73,26 +75,6 @@ body {
 /* D#3 */
 .black-key:nth-child(5) {
     left: 389px;
-}
-/* F#3 */
-.black-key:nth-child(6) {
-    left: 525px;
-}
-/* G#3 */
-.black-key:nth-child(7) {
-    left: 594px;
-}
-/* A#3 */
-.black-key:nth-child(8) {
-    left: 660px;
-}
-/* C#4 */
-.black-key:nth-child(9) {
-    left: 798px;
-}
-/* D#4 */
-.black-key:nth-child(10) {
-    left: 865px;
 }
 
 
