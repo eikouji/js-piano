@@ -82,3 +82,10 @@ body {
 .black-key:nth-child(10) {
     left: 865px;
 }
+
+
+.white-key-name {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
