@@ -7,7 +7,7 @@ Technologies used:
 * HTML5
 * CSS3
 * JavaScript
-* Piano Note Sounds from archive.org
+* Piano note sounds are from archive.org
 
 # Dev's notes #
 This is based on a youtube tutorial. While this tutorial was a great launching point, I did the best I could to make sure that
@@ -19,3 +19,4 @@ This is based on a youtube tutorial. While this tutorial was a great launching p
 # Gif or Image of App #
 
 # URL of App #
+https://eikouji.github.io/js-piano/
