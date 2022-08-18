@@ -7,6 +7,7 @@ Technologies used:
 HTML5
 CSS3
 JavaScript
+Piano Note Sounds from archive.org
 
 # Gif or Image of App #
 
